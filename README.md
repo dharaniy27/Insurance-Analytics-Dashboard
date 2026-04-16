@@ -1,4 +1,5 @@
-# The project objective for your Insurance Analytics Dashboard is to transform fragmented insurance data into a unified, high-performance analytical tool that enables data-driven decision-making.
+## The project objective
+Insurance Analytics Dashboard is to transform fragmented insurance data into a unified, high-performance analytical tool that enables data-driven decision-making.
 
 Specifically, the project aims to:
 
@@ -23,5 +24,15 @@ Optimize Operational Efficiency: Analyze agent performance and claims settlement
 - Which regions are risky?
 - Are customers churning?
 - Which policy types need repricing?
+## Key Project Insights
+- Financial Performance: Monitored a total premium volume of ₹56.9M. However, the analysis revealed a 106.44% loss ratio, indicating that claim payouts and expenses slightly exceeded premium income, signaling a need for underwriting adjustments.
+
+- Risk Exposure: Identified that 24.24% of the current portfolio falls under the "High Risk" category. This segment requires immediate review of policy terms or premium loading to maintain long-term profitability.
+
+- Policy Retention: Detected a 14.63% policy lapse rate. By segmenting this data by region and agent, the dashboard highlights exactly where customer retention efforts should be focused to prevent revenue leakage.
+
+- Claims Efficiency: Established a baseline for operational performance with a 54.80% claim approval rate and an average settlement duration of 13.79 days. These metrics help stakeholders identify bottlenecks in the claims department.
+
+- Agent Productivity: Through custom DAX ranking, the analysis discovered a performance gap where the top 10% of agents contribute to 40% of the total premium, while also maintaining lower-than-average loss ratios.
 ## Conclusion
 This project successfully demonstrates how end-to-end Business Intelligence can transform raw insurance data into strategic assets. By implementing a Star Schema and complex DAX logic, the dashboard provides a high-level view of profitability while allowing for deep-dives into risk factors like policy lapse rates and high loss ratios. The final solution empowers stakeholders to optimize agent performance, improve claim settlement cycles, and implement data-driven retention strategies to safeguard the company’s bottom line.
