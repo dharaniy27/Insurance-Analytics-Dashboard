@@ -11,17 +11,17 @@ Enhance Risk Mitigation: Identify and visualize high-risk exposure (24.2%) and p
 Optimize Operational Efficiency: Analyze agent performance and claims settlement cycles (averaging 13.79 days) to identify bottlenecks and improve service delivery.
 - <a href = "https://app.powerbi.com/groups/me/dashboards/414ea8e8-960a-44fc-9b1e-e4be12c64c33?experience=power-bi"> Dashboard</a>
 ## Question (KPIs)
--Are we growing?
--Are claims under control?
--Which policy drives revenue?
--Are claims getting approved quickly?
--Which policies are riskier?
--Where are delays happening?
--Who are my best agents?
--Who is selling risky business?
--Which agent needs intervention?
--Which regions are risky?
--Are customers churning?
--Which policy types need repricing?
+- Are we growing?
+- Are claims under control?
+- Which policy drives revenue?
+- Are claims getting approved quickly?
+- Which policies are riskier?
+- Where are delays happening?
+- Who are my best agents?
+- Who is selling risky business?
+- Which agent needs intervention?
+- Which regions are risky?
+- Are customers churning?
+- Which policy types need repricing?
 ## Conclusion
 This project successfully demonstrates how end-to-end Business Intelligence can transform raw insurance data into strategic assets. By implementing a Star Schema and complex DAX logic, the dashboard provides a high-level view of profitability while allowing for deep-dives into risk factors like policy lapse rates and high loss ratios. The final solution empowers stakeholders to optimize agent performance, improve claim settlement cycles, and implement data-driven retention strategies to safeguard the company’s bottom line.
