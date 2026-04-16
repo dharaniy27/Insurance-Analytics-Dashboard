@@ -9,3 +9,4 @@ Quantify Financial Health: Develop advanced DAX measures to monitor critical KPI
 Enhance Risk Mitigation: Identify and visualize high-risk exposure (24.2%) and policy lapse rates (14.6%) to support proactive customer retention and underwriting strategies.
 
 Optimize Operational Efficiency: Analyze agent performance and claims settlement cycles (averaging 13.79 days) to identify bottlenecks and improve service delivery.
+- <a href = "https://app.powerbi.com/groups/me/dashboards/414ea8e8-960a-44fc-9b1e-e4be12c64c33?experience=power-bi"> Dashboard</a>
