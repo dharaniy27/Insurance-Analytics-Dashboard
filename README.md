@@ -1,2 +1,11 @@
-# Insurance-Analytics-Dashboard
-Developed a 5-page Power BI dashboard with a 6-table Star Schema to analyze 32,000+ records. Tracked ₹56.9M in premiums and a 106.44% loss ratio. Built custom DAX measures to identify a 14.6% policy lapse rate and 24.2% high-risk exposure. Optimized data models to deliver executive insights on agent performance and claims settlement efficiency.
+The project objective for your Insurance Analytics Dashboard is to transform fragmented insurance data into a unified, high-performance analytical tool that enables data-driven decision-making.
+
+Specifically, the project aims to:
+
+Centralize Data Architecture: Build a robust 6-table Star Schema to integrate 32,000+ records across claims, premiums, and policies into a single source of truth.
+
+Quantify Financial Health: Develop advanced DAX measures to monitor critical KPIs, such as the 106.44% loss ratio and ₹56.9M in total premiums, providing leadership with a clear view of profitability.
+
+Enhance Risk Mitigation: Identify and visualize high-risk exposure (24.2%) and policy lapse rates (14.6%) to support proactive customer retention and underwriting strategies.
+
+Optimize Operational Efficiency: Analyze agent performance and claims settlement cycles (averaging 13.79 days) to identify bottlenecks and improve service delivery.
