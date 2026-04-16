@@ -1,4 +1,4 @@
-The project objective for your Insurance Analytics Dashboard is to transform fragmented insurance data into a unified, high-performance analytical tool that enables data-driven decision-making.
+# The project objective for your Insurance Analytics Dashboard is to transform fragmented insurance data into a unified, high-performance analytical tool that enables data-driven decision-making.
 
 Specifically, the project aims to:
 
